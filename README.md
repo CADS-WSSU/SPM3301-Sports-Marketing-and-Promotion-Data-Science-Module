@@ -31,7 +31,7 @@ The primary focus of this reposity concerns only the portion of the course where
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
           <li>Module 1 - Introduction to Data and Data Analytics
@@ -46,7 +46,7 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Assignments">Class Activity Assignments</a></td>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Class%20Activity%20Assignments">Class Activity Assignments</a></td>
       <td>
         <ul>
           <li>Module 1 Assignment</li>
@@ -57,7 +57,7 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Quizzes">Data Analysis Quizzes</a></td>
       <td>
         <ul>
           <li>Quiz for Modules 1 & 2</li>
@@ -66,7 +66,7 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Student%20Performance%20Sample">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Sample student submissions from the assignments and quizzes</li>
